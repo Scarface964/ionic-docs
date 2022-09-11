@@ -22,7 +22,7 @@ Please enter the full name of your app. You can change this at any time.
 To bypass this prompt next time, supply name,
 the first argument to ionic start.
 
-? Project name: █
+? Project name:chrome
 ```
 
 The Ionic CLI will display prompts asking for the new project's name and which template to use. These details can be provided as command arguments:
